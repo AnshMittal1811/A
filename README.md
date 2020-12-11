@@ -1,2 +1,1 @@
-# AI in Medicine Specialization
-
+# AI for Medicine Specialization
